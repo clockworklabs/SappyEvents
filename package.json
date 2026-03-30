@@ -1,0 +1,24 @@
+{
+  "name": "io.clockworklabs.sappy",
+  "version": "1.0.0",
+  "displayName": "Sappy",
+  "description": "High performance event system for Unity.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Lisandro Crespo",
+    "email": "lisandro@clockworklabs.io",
+    "url": "https://clockworklabs.io"
+  },
+  "samples": [
+    {
+      "displayName": "Source Generator",
+      "description": "Roslyn source generator. It's required.",
+      "path": "Samples~/Source Generator"
+    },
+    {
+      "displayName": "Benchmark",
+      "description": "Benchmark to test performance.",
+      "path": "Samples~/Benchmark"
+    }
+  ]
+}
