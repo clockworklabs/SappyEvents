@@ -237,7 +237,7 @@ You can find the Benchmark Scene in Samples and play with it.
 ## Installation
 Installing Sappy is simple. You can add the package via the Unity Package Manager using the Git URL, or by modifying your `manifest.json` file directly.
 
-Add the following package URL: `https://github.com/clockworklabs/SappyEvents#[target-version]` (latest is `1.0.0`).
+Add the following package URL: `https://github.com/clockworklabs/SappyEvents.git#[target-version]` (latest is `1.0.0`).
 
 ### Source Generator
 1. Open the **Package Manager**.
